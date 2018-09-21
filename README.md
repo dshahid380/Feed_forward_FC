@@ -5,3 +5,6 @@ Feed forward fully connected neural network from scratch.
    * Numpy
 ## Feedforward Fully connected Neural Network
 ![](https://i.stack.imgur.com/epElm.png)
+
+### Pipeline
+![Image](pipeline.png)
