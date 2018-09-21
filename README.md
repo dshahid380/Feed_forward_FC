@@ -10,7 +10,7 @@ Feed forward fully connected neural network from scratch.
 ### Forward Propagation for layer l:
 ```
  Input  a[l-1]
- Output a[l], cache( Z[l] )
+ Output a[l], cache(Z[l])
   Z[l] = W[l] * a[l-1] + b[l]
   a[l] = g[l]( Z[l] )
  
@@ -48,11 +48,11 @@ Feed forward fully connected neural network from scratch.
 ### Dimensions
 ```
 l=layer number
-* W[l] : ( n[l] ,n[l-l] ) 
-* b[l] : ( n[l] ,1 ) 
-* dW[l] : ( n[l] , n[l-1] )
-* db[l] : (n[l] , 1)
-* a[l] : g[l] ( Z[l] )
+  W[l] : (n[l], n[l-l]) 
+  b[l] : (n[l], 1) 
+ dW[l] : (n[l], n[l-1])
+ db[l] : (n[l], 1)
+  a[l] : g[l](Z[l])
 ```
 
 # Pipeline
