@@ -7,7 +7,7 @@ Feed forward fully connected neural network from scratch.
 ![](https://i.stack.imgur.com/epElm.png)
 
 
-### Forward Propagation for layer l:
+### Forward Propagation for layer L:
  ![Image](forwardpropagation.png)
 ```
  Input  a[l-1]
@@ -18,7 +18,7 @@ Feed forward fully connected neural network from scratch.
  Where a[l] is the activation function at layer l
  
 ```
-### Backpropagation for layer l :
+### Backpropagation for layer L :
 
 ![Image](backprop.jpg)
 ```
@@ -48,7 +48,7 @@ Feed forward fully connected neural network from scratch.
      5) Arctan
    Regularisation
 ```
-### Dimensions
+### Dimension of parameters :
 ```
 l=layer number
   W[l] : (n[l], n[l-l]) 
@@ -58,5 +58,5 @@ l=layer number
   a[l] : g[l](Z[l])
 ```
 
-# Pipeline
+# PIPELINE
 ![Image](pipeline.jpg)
