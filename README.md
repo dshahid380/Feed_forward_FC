@@ -8,6 +8,7 @@ Feed forward fully connected neural network from scratch.
 
 
 ### Forward Propagation for layer l:
+ ![Image](forwardpropagation.png)
 ```
  Input  a[l-1]
  Output a[l], cache(Z[l])
@@ -18,6 +19,8 @@ Feed forward fully connected neural network from scratch.
  
 ```
 ### Backpropagation for layer l :
+
+![Image](backprop.jpg)
 ```
  Error at output layer acts as input for backprop
  Y= Label vector in training set
