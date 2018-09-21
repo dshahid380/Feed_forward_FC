@@ -7,4 +7,4 @@ Feed forward fully connected neural network from scratch.
 ![](https://i.stack.imgur.com/epElm.png)
 
 ### Pipeline
-![Image](20180921_122219-1[1].jpg)
+![Image](http://resizeimage.net/viewimg/1uoQgRQluhUCxodK/kqeGW/20180921_122219-1-1-.jpg)
