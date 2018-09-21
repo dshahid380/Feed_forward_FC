@@ -3,7 +3,7 @@ Feed forward fully connected neural network from scratch.
 ### Dependencies :
    * Python3
    * Numpy
-## Feedforward Fully connected Neural Network :
+### Feedforward Fully connected Neural Network example :
 ![](https://i.stack.imgur.com/epElm.png)
 
 
