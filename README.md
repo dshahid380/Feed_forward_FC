@@ -10,12 +10,12 @@ Feed forward fully connected neural network from scratch.
 ![Image](pipeline.jpg)
 
 ### Dimensions
-'''
+```
 l=layer number
-W[l] : ( n[l] ,n[l-l] ) 
-b[l] : ( n[l] ,1 ) 
-dW[l] : ( n[l] , n[l-1] )
-db[l] : (n[l] , 1)
-a[l] : g[l] ( Z[l] )
-'''
+* W[l] : ( n[l] ,n[l-l] ) 
+* b[l] : ( n[l] ,1 ) 
+* dW[l] : ( n[l] , n[l-1] )
+* db[l] : (n[l] , 1)
+* a[l] : g[l] ( Z[l] )
+```
 
