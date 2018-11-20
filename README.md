@@ -58,5 +58,5 @@ l=layer number
   a[l] : g[l](Z[l])
 ```
 
-# PIPELINE
+# WORKFLOW
 ![Image](pipeline.jpg)
