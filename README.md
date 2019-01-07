@@ -1,5 +1,5 @@
 # Feed_forward_FC
-Deep feedforward networks, also often called feedforward neural networks, or multilayer perceptrons(MLPs), are the quintessential deep learning models. The goal of a feedforward network is to approximate some function f*. For example, for a classiﬁer, y = f*(x) maps an input x to a category y. A feedforward network deﬁnes a mapping y = f(x;θ) and learns the value of the parameters θ that result in the best function approximation.
+Deep feedforward networks, also often called feedforward neural networks, or multilayer perceptrons(MLPs), are the quintessential deep learning models. The goal of a feedforward network is to approximate some function **f***. For example, for a classiﬁer, **y = f*(x)** maps an input x to a category y. A feedforward network deﬁnes a mapping **y = f(x;θ)** and learns the value of the parameters θ that result in the best function approximation.
 These models are called feedforward because information ﬂows through the function being evaluated from x, through the intermediate computations used to deﬁne f, and ﬁnally to the output y.There are no feedback connections in which outputs of the model are fed back into itself. When feedforward neural networks are extended to include feedback connections, they are called recurrent neural networks.
 ### Dependencies :
    * Python3
