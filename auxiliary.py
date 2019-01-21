@@ -1,13 +1,8 @@
 import numpy as np
 import math
 
-#hlayers= a list of numbers of hidden units for arbitrarily many hidden layers
-#active_fnct= a list of types of activation functions (one more argument than hlayers)
-
-
-#Basic auxiliary functions
 def comb_arrays(x):
-    #x is the list of arrays (for multivariate environment)
+    
     z = np.zeros((len(x[0][:]),len(x)))
     for i in range(0,len(x)):
         for j in range(0,len(x[0])):
