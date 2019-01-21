@@ -61,3 +61,6 @@ l=layer number
 
 # WORKFLOW
 ![Image](pipeline.jpg)
+
+### Reference :
+ * Deeplearning.ai first course
